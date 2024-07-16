@@ -2,7 +2,7 @@ package com.flipkart.business;
 
 public class CustomerBusiness {
     public void createCustomer() {
-        System.out.println("Creating new customer..." + customerID);
+        System.out.println("Creating new customer...");
 
     }
 
